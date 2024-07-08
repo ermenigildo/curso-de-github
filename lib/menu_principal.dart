@@ -6,7 +6,7 @@ class MenuPrincipal extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Stylos Con Anita'),
+        title: Text('Tienda de Ropa'),
       ),
       body: GridView.count(
         crossAxisCount: 2,
